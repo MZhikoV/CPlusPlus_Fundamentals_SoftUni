@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Sign of Integer Numbers
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Grades", "02. Grades\02. Grades.vcxproj", "{34CFBC9A-3CDA-4C6D-B4AE-6DAFF33D247D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Smallest of Three Numbers", "03. Smallest of Three Numbers\03. Smallest of Three Numbers.vcxproj", "{AB4E943A-8465-4CD3-A3FD-73503CED0E20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{34CFBC9A-3CDA-4C6D-B4AE-6DAFF33D247D}.Release|x64.Build.0 = Release|x64
 		{34CFBC9A-3CDA-4C6D-B4AE-6DAFF33D247D}.Release|x86.ActiveCfg = Release|Win32
 		{34CFBC9A-3CDA-4C6D-B4AE-6DAFF33D247D}.Release|x86.Build.0 = Release|Win32
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Debug|x64.ActiveCfg = Debug|x64
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Debug|x64.Build.0 = Debug|x64
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Debug|x86.Build.0 = Debug|Win32
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Release|x64.ActiveCfg = Release|x64
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Release|x64.Build.0 = Release|x64
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Release|x86.ActiveCfg = Release|Win32
+		{AB4E943A-8465-4CD3-A3FD-73503CED0E20}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
