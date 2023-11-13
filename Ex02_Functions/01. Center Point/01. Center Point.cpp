@@ -20,9 +20,9 @@ void pithaghorT(int x1, int y1, int x2, int y2) {
     double deltaA = sqrt(pow(x1, 2) + pow(y1, 2));
     double deltaB = sqrt(pow(x2, 2) + pow(y2, 2));
     if (deltaA <= deltaB) {
-        cout << '(' << x1 << ", " << y1 << ')' << endl;
+        cout << "(" << x1 << ", " << y1 << ")" << endl;
     }
     else {
-        cout << '(' << x2 << ", " << y2 << ')' << endl;
+        cout << "(" << x2 << ", " << y2 << ")" << endl;
     }
 }
