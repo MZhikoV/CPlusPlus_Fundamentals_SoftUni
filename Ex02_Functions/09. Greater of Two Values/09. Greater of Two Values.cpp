@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -24,7 +25,9 @@ int main()
     }
     else if (type == "string") {
         string a, b;
-        cin >> a >> b;
+        cin.ignore();
+        getline(cin, a);
+        getline(cin, b);
         typeString(a, b);
     }
 

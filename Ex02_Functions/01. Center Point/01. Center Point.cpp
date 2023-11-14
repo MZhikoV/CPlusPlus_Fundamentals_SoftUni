@@ -3,11 +3,11 @@
 
 using namespace std;
 
-void pithaghorT(int x1, int y1, int x2, int y2);
+void pithaghorT(double x1, double y1, double x2, double y2);
 
 int main()
 {
-    int x1, y1, x2, y2;
+    double x1, y1, x2, y2;
     cin >> x1 >> y1 >> x2 >> y2;
 
     pithaghorT(x1, y1, x2, y2);
@@ -16,7 +16,7 @@ int main()
 }
 
 
-void pithaghorT(int x1, int y1, int x2, int y2) {
+void pithaghorT(double x1, double y1, double x2, double y2) {
     double deltaA = sqrt(pow(x1, 2) + pow(y1, 2));
     double deltaB = sqrt(pow(x2, 2) + pow(y2, 2));
     if (deltaA <= deltaB) {
