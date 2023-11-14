@@ -24,4 +24,4 @@ void printNum(int a) {
     for (int k = 1; k <= a; k++) {
         cout << k << ' ';
     }
-}
+} 
