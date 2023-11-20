@@ -1,20 +1,48 @@
-// 05. Cartesian Product.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+
+using namespace std;
+
+const int MAXNUM = 99;
+
+void  inputArr(int* arr, int lastIdx) {
+    for (int i = 0; i < lastIdx; i++) {
+        cin >> arr[i];
+    }
+}
+
+void productArr(int* arr1, int* arr2, int lastIdx) {
+    int p = 0;
+    for (int i = 0; i < lastIdx; i++) {
+        for (int j = 0; j < lastIdx; j++) {
+            arr2[p] = arr1[i] * arr1[j];
+            p++;
+        }
+    }
+}
+
+void  printArr(int* arr, int lastIdx) {
+    for (int i = 0; i < lastIdx; i++) {
+        cout<< arr[i]<<' ';
+    }
+}
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int n;
+    cin >> n;
+
+    int arrI[MAXNUM] = {};
+
+    inputArr(arrI, n);
+
+    int arrIP[MAXNUM] = {};
+
+    productArr(arrI, arrIP, n);
+
+    printArr(arrIP, n*n);
+
+    cout << endl;
+
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
