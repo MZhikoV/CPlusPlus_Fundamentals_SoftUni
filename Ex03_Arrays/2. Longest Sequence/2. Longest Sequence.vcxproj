@@ -24,6 +24,7 @@
     <ProjectGuid>{815855ec-7b15-4f2f-9eb1-92fd17f0a4a8}</ProjectGuid>
     <RootNamespace>My2LongestSequence</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>02. Longest Sequence</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

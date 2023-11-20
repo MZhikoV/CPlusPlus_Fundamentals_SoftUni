@@ -34,6 +34,9 @@ int main()
             }
         }
     }
+    if (n == 1) {
+        minDiff = arrI[n];
+    }
 
     cout << minDiff << endl;
 

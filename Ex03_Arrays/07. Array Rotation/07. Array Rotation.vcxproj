@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{59c2f507-c302-4e3a-9fd1-f16815766b49}</ProjectGuid>
-    <RootNamespace>My3AboveAverage</RootNamespace>
+    <ProjectGuid>{3c86e30d-3100-4182-bd3f-9d0a985f6d5b}</ProjectGuid>
+    <RootNamespace>My07ArrayRotation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03. Above Average</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="3. Above Average.cpp" />
+    <ClCompile Include="07. Array Rotation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

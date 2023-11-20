@@ -5,15 +5,21 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Zig-Zag Arrays", "01. Zig-Zag Arrays\01. Zig-Zag Arrays.vcxproj", "{B040770C-408C-4426-AF9B-17DC63E2BD52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Longest Sequence", "2. Longest Sequence\2. Longest Sequence.vcxproj", "{815855EC-7B15-4F2F-9EB1-92FD17F0A4A8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Longest Sequence", "2. Longest Sequence\2. Longest Sequence.vcxproj", "{815855EC-7B15-4F2F-9EB1-92FD17F0A4A8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Above Average", "3. Above Average\3. Above Average.vcxproj", "{59C2F507-C302-4E3A-9FD1-F16815766B49}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Above Average", "3. Above Average\3. Above Average.vcxproj", "{59C2F507-C302-4E3A-9FD1-F16815766B49}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Most Frequent Number", "4. Most Frequent Number\4. Most Frequent Number.vcxproj", "{60D45360-28F9-4844-8478-04020EF341E7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Most Frequent Number", "4. Most Frequent Number\4. Most Frequent Number.vcxproj", "{60D45360-28F9-4844-8478-04020EF341E7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Cartesian Product", "05. Cartesian Product\05. Cartesian Product.vcxproj", "{F8319C66-5139-4D69-B430-E34BBE32C21B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. Closest Numbers", "06. Closest Numbers\06. Closest Numbers.vcxproj", "{D1AA942F-0D53-451F-856B-DA28D4A970D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. Array Rotation", "07. Array Rotation\07. Array Rotation.vcxproj", "{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08. Top Integers", "08. Top Integers\08. Top Integers.vcxproj", "{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09. Magic Sum", "09. Magic Sum\09. Magic Sum.vcxproj", "{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +77,30 @@ Global
 		{D1AA942F-0D53-451F-856B-DA28D4A970D7}.Release|x64.Build.0 = Release|x64
 		{D1AA942F-0D53-451F-856B-DA28D4A970D7}.Release|x86.ActiveCfg = Release|Win32
 		{D1AA942F-0D53-451F-856B-DA28D4A970D7}.Release|x86.Build.0 = Release|Win32
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Debug|x64.ActiveCfg = Debug|x64
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Debug|x64.Build.0 = Debug|x64
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Debug|x86.Build.0 = Debug|Win32
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Release|x64.ActiveCfg = Release|x64
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Release|x64.Build.0 = Release|x64
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Release|x86.ActiveCfg = Release|Win32
+		{3C86E30D-3100-4182-BD3F-9D0A985F6D5B}.Release|x86.Build.0 = Release|Win32
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Debug|x64.ActiveCfg = Debug|x64
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Debug|x64.Build.0 = Debug|x64
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Debug|x86.Build.0 = Debug|Win32
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Release|x64.ActiveCfg = Release|x64
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Release|x64.Build.0 = Release|x64
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Release|x86.ActiveCfg = Release|Win32
+		{0C5458A5-5AEE-4DD4-81A2-04ADC0067537}.Release|x86.Build.0 = Release|Win32
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Debug|x64.ActiveCfg = Debug|x64
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Debug|x64.Build.0 = Debug|x64
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Debug|x86.Build.0 = Debug|Win32
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Release|x64.ActiveCfg = Release|x64
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Release|x64.Build.0 = Release|x64
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Release|x86.ActiveCfg = Release|Win32
+		{D5EC9CE6-B0EC-4D82-AB26-3EFE31FAE269}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
