@@ -4,17 +4,29 @@ using namespace std;
 
 const int MAXNUM = 99;
 
-void reversArr(string* arr, int lastIdx) {
-    string arr2[MAXNUM] = {};
-    for (int i = 0; i < lastIdx; i++) {
-        arr2[i] = arr[i];
-    }
-    int k = 0;
-    for (int j = lastIdx - 1; j >= 0; j--) {
-        arr[j] = arr2[k];
-        k++;
+void reversArr(string* arr, int lastIdx) {      //boubbles
+    int halfLen = lastIdx / 2;
+    for (int i = 0; i < halfLen; i++) {
+        string a = arr[i];
+        string b = arr[lastIdx - 1 - i];
+        arr[i] = b;
+        arr[lastIdx - 1 - i] = a;
     }
 }
+
+
+
+//void reversArr(string* arr, int lastIdx) {
+//    string arr2[MAXNUM] = {};
+//    for (int i = 0; i < lastIdx; i++) {
+//        arr2[i] = arr[i];
+//    }
+//    int k = 0;
+//    for (int j = lastIdx - 1; j >= 0; j--) {
+//        arr[j] = arr2[k];
+//        k++;
+//    }
+//}
 
 void printArr(string* arr, int lastIdx) {
     for (int i = 0; i < lastIdx; i++) {
