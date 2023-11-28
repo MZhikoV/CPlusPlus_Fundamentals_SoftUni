@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Caesar Cipher", "02. Ca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Replace Repeating Chars", "03. Replace Repeating Chars\03. Replace Repeating Chars.vcxproj", "{B99022C4-BBDD-4428-A4C9-D2D55C424465}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Character Multiplier", "04. Character Multiplier\04. Character Multiplier.vcxproj", "{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B99022C4-BBDD-4428-A4C9-D2D55C424465}.Release|x64.Build.0 = Release|x64
 		{B99022C4-BBDD-4428-A4C9-D2D55C424465}.Release|x86.ActiveCfg = Release|Win32
 		{B99022C4-BBDD-4428-A4C9-D2D55C424465}.Release|x86.Build.0 = Release|Win32
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Debug|x64.ActiveCfg = Debug|x64
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Debug|x64.Build.0 = Debug|x64
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Debug|x86.Build.0 = Debug|Win32
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Release|x64.ActiveCfg = Release|x64
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Release|x64.Build.0 = Release|x64
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Release|x86.ActiveCfg = Release|Win32
+		{8EADB354-62C3-4ACE-BB38-FCD25D9A61AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
