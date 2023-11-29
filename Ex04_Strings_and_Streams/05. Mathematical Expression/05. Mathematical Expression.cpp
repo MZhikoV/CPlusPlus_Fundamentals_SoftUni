@@ -20,14 +20,16 @@ int main()
             closeB++;
         }
     }
-    if (openB == closeB) {
+    cout << ((openB == closeB) ? "correct" : "incorrect") << endl;;
+
+    /*if (openB == closeB) {
         cout << "correct";
     }
     else {
         cout << "incorrect";
     }
 
-    cout << endl;
+    cout << endl;*/
 
     return 0;
 }
