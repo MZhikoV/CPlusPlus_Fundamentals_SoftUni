@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Order Two Numbers", "01. Order Two Numbers\01. Order Two Numbers.vcxproj", "{9B61EC90-B728-47BC-8D4D-DA75BE5C057B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Product Sign", "02. Product Sign\02. Product Sign.vcxproj", "{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Quadratic Equation", "03. Quadratic Equation\03. Quadratic Equation.vcxproj", "{28DA4998-898E-430E-9D49-447FE6C194B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{9B61EC90-B728-47BC-8D4D-DA75BE5C057B}.Release|x64.Build.0 = Release|x64
 		{9B61EC90-B728-47BC-8D4D-DA75BE5C057B}.Release|x86.ActiveCfg = Release|Win32
 		{9B61EC90-B728-47BC-8D4D-DA75BE5C057B}.Release|x86.Build.0 = Release|Win32
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Debug|x64.ActiveCfg = Debug|x64
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Debug|x64.Build.0 = Debug|x64
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Debug|x86.Build.0 = Debug|Win32
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Release|x64.ActiveCfg = Release|x64
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Release|x64.Build.0 = Release|x64
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Release|x86.ActiveCfg = Release|Win32
+		{C87FCCFA-AD3A-403C-A416-1CF951B3AF2D}.Release|x86.Build.0 = Release|Win32
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Debug|x64.ActiveCfg = Debug|x64
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Debug|x64.Build.0 = Debug|x64
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Debug|x86.Build.0 = Debug|Win32
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Release|x64.ActiveCfg = Release|x64
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Release|x64.Build.0 = Release|x64
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Release|x86.ActiveCfg = Release|Win32
+		{28DA4998-898E-430E-9D49-447FE6C194B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
