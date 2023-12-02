@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Gauss' Trick", "03. Gau
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Merging Lists", "04. Merging Lists\04. Merging Lists.vcxproj", "{99F06A34-BDC2-416A-80D9-2C95F38A49AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Manipulations", "05. Manipulations\05. Manipulations.vcxproj", "{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{99F06A34-BDC2-416A-80D9-2C95F38A49AC}.Release|x64.Build.0 = Release|x64
 		{99F06A34-BDC2-416A-80D9-2C95F38A49AC}.Release|x86.ActiveCfg = Release|Win32
 		{99F06A34-BDC2-416A-80D9-2C95F38A49AC}.Release|x86.Build.0 = Release|Win32
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Debug|x64.ActiveCfg = Debug|x64
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Debug|x64.Build.0 = Debug|x64
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Debug|x86.Build.0 = Debug|Win32
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Release|x64.ActiveCfg = Release|x64
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Release|x64.Build.0 = Release|x64
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Release|x86.ActiveCfg = Release|Win32
+		{C7E4078A-B99C-4DB5-B894-2DCE7E0BF9A7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
