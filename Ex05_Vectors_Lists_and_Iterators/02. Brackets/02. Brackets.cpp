@@ -24,7 +24,7 @@ void checkBrackets(vector<char> &inp, char a, char b) {
     }
 }
 
-
+//to check where the supremacy is oserved
 bool checkSupr(vector<char>& inp, char a) {
     vector<char>::iterator itC = inp.begin();
 
