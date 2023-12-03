@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Merge Trains", "01. Merge Trains\01. Merge Trains.vcxproj", "{CEC3416A-9C68-41A5-84D9-2319E462CF29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Brackets", "02. Brackets\02. Brackets.vcxproj", "{F7771276-5E7F-4945-A5C6-0391ABAB08CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CEC3416A-9C68-41A5-84D9-2319E462CF29}.Release|x64.Build.0 = Release|x64
 		{CEC3416A-9C68-41A5-84D9-2319E462CF29}.Release|x86.ActiveCfg = Release|Win32
 		{CEC3416A-9C68-41A5-84D9-2319E462CF29}.Release|x86.Build.0 = Release|Win32
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Debug|x64.ActiveCfg = Debug|x64
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Debug|x64.Build.0 = Debug|x64
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Debug|x86.Build.0 = Debug|Win32
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Release|x64.ActiveCfg = Release|x64
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Release|x64.Build.0 = Release|x64
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Release|x86.ActiveCfg = Release|Win32
+		{F7771276-5E7F-4945-A5C6-0391ABAB08CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

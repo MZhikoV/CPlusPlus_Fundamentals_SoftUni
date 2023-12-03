@@ -72,7 +72,7 @@ int main()
     if (finA) {
         for (; itB >= trainB.begin();) {
             result.insert(result.begin(), *itB);
-            resT.insert(resT.begin(), 66);
+            resT.push_back(66);
             if (itB == trainB.begin()) {
                 break;
             }
@@ -84,7 +84,7 @@ int main()
     else {
         for (; itA >= trainA.begin(); ) {
             result.insert(result.begin(), *itA);
-            resT.insert(resT.begin(), 65);
+            resT.push_back(65);
             if (itA == trainA.begin()) {
                 break;
             }
@@ -112,4 +112,4 @@ int main()
     return 0;
 }
 
-//s 07.11
+//s 07.11 e 08.23
