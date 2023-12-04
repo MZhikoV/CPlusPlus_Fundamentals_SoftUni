@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Smallest of Three Numbe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Printing Triangle", "04. Printing Triangle\04. Printing Triangle.vcxproj", "{C2DDC5BC-466B-4041-B154-D99F616B005F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Calculate Rectangle Area", "05. Calculate Rectangle Area\05. Calculate Rectangle Area.vcxproj", "{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. Math Power", "06. Math Power\06. Math Power.vcxproj", "{2C8DA022-52E0-417D-AD50-E73961C6A5FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{C2DDC5BC-466B-4041-B154-D99F616B005F}.Release|x64.Build.0 = Release|x64
 		{C2DDC5BC-466B-4041-B154-D99F616B005F}.Release|x86.ActiveCfg = Release|Win32
 		{C2DDC5BC-466B-4041-B154-D99F616B005F}.Release|x86.Build.0 = Release|Win32
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Debug|x64.ActiveCfg = Debug|x64
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Debug|x64.Build.0 = Debug|x64
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Debug|x86.Build.0 = Debug|Win32
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Release|x64.ActiveCfg = Release|x64
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Release|x64.Build.0 = Release|x64
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Release|x86.ActiveCfg = Release|Win32
+		{27E2B101-CB8C-4C15-A5BB-073D31FCB1A3}.Release|x86.Build.0 = Release|Win32
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Debug|x64.ActiveCfg = Debug|x64
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Debug|x64.Build.0 = Debug|x64
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Debug|x86.Build.0 = Debug|Win32
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Release|x64.ActiveCfg = Release|x64
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Release|x64.Build.0 = Release|x64
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Release|x86.ActiveCfg = Release|Win32
+		{2C8DA022-52E0-417D-AD50-E73961C6A5FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
