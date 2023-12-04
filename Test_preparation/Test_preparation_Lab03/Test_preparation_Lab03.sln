@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Sum Even Numbers", "03.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Reverse Array of Strings", "04. Reverse Array of Strings\04. Reverse Array of Strings.vcxproj", "{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Even and Odd Subtraction", "05. Even and Odd Subtraction\05. Even and Odd Subtraction.vcxproj", "{D84D7DE4-C139-469C-AAD9-A2E854FB859C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. Equal Arrays", "06. Equal Arrays\06. Equal Arrays.vcxproj", "{8D26BEF8-7FE7-4BED-AB45-2574305E494F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,22 @@ Global
 		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x64.Build.0 = Release|x64
 		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x86.ActiveCfg = Release|Win32
 		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x86.Build.0 = Release|Win32
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Debug|x64.ActiveCfg = Debug|x64
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Debug|x64.Build.0 = Debug|x64
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Debug|x86.Build.0 = Debug|Win32
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Release|x64.ActiveCfg = Release|x64
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Release|x64.Build.0 = Release|x64
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Release|x86.ActiveCfg = Release|Win32
+		{D84D7DE4-C139-469C-AAD9-A2E854FB859C}.Release|x86.Build.0 = Release|Win32
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Debug|x64.ActiveCfg = Debug|x64
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Debug|x64.Build.0 = Debug|x64
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Debug|x86.Build.0 = Debug|Win32
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Release|x64.ActiveCfg = Release|x64
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Release|x64.Build.0 = Release|x64
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Release|x86.ActiveCfg = Release|Win32
+		{8D26BEF8-7FE7-4BED-AB45-2574305E494F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
