@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. Day of Week", "01. Day 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Print Numbers in Reverse Order", "02. Print Numbers in Reverse Order\02. Print Numbers in Reverse Order.vcxproj", "{DDC56548-0438-4233-B100-1A88ADDB74CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Sum Even Numbers", "03. Sum Even Numbers\03. Sum Even Numbers.vcxproj", "{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Reverse Array of Strings", "04. Reverse Array of Strings\04. Reverse Array of Strings.vcxproj", "{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{DDC56548-0438-4233-B100-1A88ADDB74CD}.Release|x64.Build.0 = Release|x64
 		{DDC56548-0438-4233-B100-1A88ADDB74CD}.Release|x86.ActiveCfg = Release|Win32
 		{DDC56548-0438-4233-B100-1A88ADDB74CD}.Release|x86.Build.0 = Release|Win32
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Debug|x64.ActiveCfg = Debug|x64
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Debug|x64.Build.0 = Debug|x64
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Debug|x86.Build.0 = Debug|Win32
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Release|x64.ActiveCfg = Release|x64
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Release|x64.Build.0 = Release|x64
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Release|x86.ActiveCfg = Release|Win32
+		{D35A7E2E-9550-45B1-89B1-C97B1568DF0C}.Release|x86.Build.0 = Release|Win32
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Debug|x64.ActiveCfg = Debug|x64
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Debug|x64.Build.0 = Debug|x64
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Debug|x86.ActiveCfg = Debug|Win32
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Debug|x86.Build.0 = Debug|Win32
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x64.ActiveCfg = Release|x64
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x64.Build.0 = Release|x64
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x86.ActiveCfg = Release|Win32
+		{40F26EFF-AE8A-402F-9535-34B1F3CC5B44}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
