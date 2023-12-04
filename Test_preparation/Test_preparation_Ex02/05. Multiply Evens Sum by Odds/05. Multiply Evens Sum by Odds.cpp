@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
@@ -6,6 +7,8 @@ int main()
 {
     int a;
     cin >> a;
+
+    a = abs(a);
 
     int dig;
     
