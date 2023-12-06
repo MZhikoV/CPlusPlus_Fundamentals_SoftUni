@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. Caesar Cipher", "02. Ca
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. Replace Repeating Chars", "03. Replace Repeating Chars\03. Replace Repeating Chars.vcxproj", "{A80B83B5-8314-4309-905F-7EBD7FE575F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. Character Multiplier", "04. Character Multiplier\04. Character Multiplier.vcxproj", "{FCA188F4-29B5-4389-B115-D60941745ED2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. Mathematical Expression", "05. Mathematical Expression\05. Mathematical Expression.vcxproj", "{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{A80B83B5-8314-4309-905F-7EBD7FE575F2}.Release|x64.Build.0 = Release|x64
 		{A80B83B5-8314-4309-905F-7EBD7FE575F2}.Release|x86.ActiveCfg = Release|Win32
 		{A80B83B5-8314-4309-905F-7EBD7FE575F2}.Release|x86.Build.0 = Release|Win32
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Debug|x64.ActiveCfg = Debug|x64
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Debug|x64.Build.0 = Debug|x64
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Debug|x86.Build.0 = Debug|Win32
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Release|x64.ActiveCfg = Release|x64
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Release|x64.Build.0 = Release|x64
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Release|x86.ActiveCfg = Release|Win32
+		{FCA188F4-29B5-4389-B115-D60941745ED2}.Release|x86.Build.0 = Release|Win32
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Debug|x64.ActiveCfg = Debug|x64
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Debug|x64.Build.0 = Debug|x64
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Debug|x86.Build.0 = Debug|Win32
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Release|x64.ActiveCfg = Release|x64
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Release|x64.Build.0 = Release|x64
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Release|x86.ActiveCfg = Release|Win32
+		{EF67BD82-94A7-493D-96F7-DF2B6C66E1FC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
