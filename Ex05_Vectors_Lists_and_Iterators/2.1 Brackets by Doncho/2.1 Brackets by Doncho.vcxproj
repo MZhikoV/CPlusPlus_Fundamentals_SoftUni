@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c87fccfa-ad3a-403c-a416-1cf951b3af2d}</ProjectGuid>
-    <RootNamespace>My02ProductSign</RootNamespace>
+    <ProjectGuid>{8d2990d8-fe07-4b29-9709-e306869ddbea}</ProjectGuid>
+    <RootNamespace>My21BracketsbyDoncho</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02. Product Sign.cpp" />
+    <ClCompile Include="2.1 Brackets by Doncho.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

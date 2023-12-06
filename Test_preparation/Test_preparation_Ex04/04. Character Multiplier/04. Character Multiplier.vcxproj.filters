@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02. Product Sign.cpp">
+    <ClCompile Include="04. Character Multiplier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

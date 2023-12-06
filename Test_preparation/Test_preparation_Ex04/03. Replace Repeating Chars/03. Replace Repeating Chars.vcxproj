@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b61ec90-b728-47bc-8d4d-da75be5c057b}</ProjectGuid>
-    <RootNamespace>My01OrderTwoNumbers</RootNamespace>
+    <ProjectGuid>{a80b83b5-8314-4309-905f-7ebd7fe575f2}</ProjectGuid>
+    <RootNamespace>My03ReplaceRepeatingChars</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01. Order Two Numbers.cpp" />
+    <ClCompile Include="03. Replace Repeating Chars.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="03. Quadratic Equation.cpp">
+    <ClCompile Include="2.1 Brackets by Doncho.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

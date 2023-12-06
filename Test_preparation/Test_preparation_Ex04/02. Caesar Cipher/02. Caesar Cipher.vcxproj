@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f4f1fbc7-ea6f-46ca-9856-2960d017cda1}</ProjectGuid>
-    <RootNamespace>My05MinandMax</RootNamespace>
+    <ProjectGuid>{cdafd67a-0ce5-4e1a-8a8e-d94224f27c4e}</ProjectGuid>
+    <RootNamespace>My02CaesarCipher</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="05. Min and Max.cpp" />
+    <ClCompile Include="02. Caesar Cipher.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

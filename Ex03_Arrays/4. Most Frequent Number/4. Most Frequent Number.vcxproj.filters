@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4. Most Frequent Number.cpp">
+    <ClCompile Include="04. Most Frequent Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

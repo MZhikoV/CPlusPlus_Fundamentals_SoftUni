@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{abf10cda-c0cd-4840-a09b-eafb1755e7e8}</ProjectGuid>
-    <RootNamespace>My04Numbers1toN</RootNamespace>
+    <ProjectGuid>{fca188f4-29b5-4389-b115-d60941745ed2}</ProjectGuid>
+    <RootNamespace>My04CharacterMultiplier</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="04. Numbers 1 to N.cpp" />
+    <ClCompile Include="04. Character Multiplier.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

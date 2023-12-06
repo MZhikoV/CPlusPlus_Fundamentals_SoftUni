@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04. Numbers 1 to N.cpp">
+    <ClCompile Include="03. Replace Repeating Chars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
