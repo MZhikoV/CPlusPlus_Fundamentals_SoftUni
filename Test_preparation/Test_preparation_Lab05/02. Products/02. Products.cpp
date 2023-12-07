@@ -10,7 +10,7 @@ using namespace std;
 void printIntV(list<string>& v1) {
 	int i = 1;
 	for (string num : v1) {
-		cout << i << ". " << num << endl;
+		cout << i << "." << num << endl;
 		i++;
 	}
 	//cout << endl;
