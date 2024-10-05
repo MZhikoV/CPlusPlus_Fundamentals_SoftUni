@@ -36,6 +36,9 @@ int main() {
     printArr(arr1,cols);
     printArr(arr2,cols);
 
+    delete[] arr1;
+    delete[] arr2;
+
     system ("pause");
     return 0;
 }
