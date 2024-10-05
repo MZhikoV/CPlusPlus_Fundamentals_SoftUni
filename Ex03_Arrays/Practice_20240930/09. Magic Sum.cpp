@@ -30,6 +30,6 @@ int main() {
 
     delete[] arr;
 
-    system("pause");
+    // system("pause");
     return 0;
 }
