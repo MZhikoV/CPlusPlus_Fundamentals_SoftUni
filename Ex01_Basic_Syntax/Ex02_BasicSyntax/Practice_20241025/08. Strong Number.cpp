@@ -23,7 +23,7 @@ int main() {
 
     std::cout<<((initN==sum)?"yes":"no")<<std::endl;
 
-    system("pause");
+    //system("pause");
     return 0;
     
 }
