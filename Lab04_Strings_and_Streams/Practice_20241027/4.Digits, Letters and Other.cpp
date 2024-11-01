@@ -18,7 +18,7 @@ int main() {
             sym<<inp[i];
         };
     };
-    std::cout<<let.str()<<std::endl<<num.str()<<std::endl<<sym.str()<<std::endl;
+    std::cout<<num.str()<<std::endl<<let.str()<<std::endl<<sym.str()<<std::endl;
     
     system("pause");
     return 0;
